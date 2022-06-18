@@ -1,0 +1,38 @@
+id: I62F59034
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T04:31:22.251544'
+last_modified: '2022-06-19T04:31:22.251557'
+parser: null
+source_metadata:
+  title: Hagiography of sGa ston Ngag dbang legs pa (1864–1941); Lamdre Lobshe, vol.
+    nya, title no. 3
+  author: sde gzhung a jam sprul sku kun dga bstan pai rgyal mtshan/
+  description: 'Digital version 2.1 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-09-09); unrevised, no thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:rdzong sar khams bye'i lnga rig slob gling / sde dge rdzong sar/ (dzkj)
+  - Editorial process:Mathias Fermer (mf), kun dga' rdo rje/ (Kathmandu) (kun)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:-
+  text_witnesses: https://sakyaresearch.org/sources/583
+  bases:
+    e7a4:
+      title: Hagiography of sGa ston Ngag dbang legs pa (1864–1941); Lamdre Lobshe,
+        vol. nya, title no. 3
+      order: 1
+      base_file: e7a4.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
